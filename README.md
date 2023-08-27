@@ -1,4 +1,4 @@
- [![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
+ [![MasterHead](https://www.shutterstock.com/shutterstock/videos/1076715368/thumb/7.jpg?ip=x480)
 <h1 align="center">Hi 👋, I'm codingbyumut</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
