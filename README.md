@@ -1,4 +1,4 @@
- [![MasterHead]([https://pixabay.com/tr/photos/monit%C3%B6r-programlama-933392/](https://pixabay.com/tr/photos/monit%C3%B6r-programlama-933392/))]
+ [![MasterHead]([https://pixabay.com/tr/photos/monit%C3%B6r-programlama-933392/])]
 <h1 align="center">Hi 👋, I'm codingbyumut</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
